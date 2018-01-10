@@ -1,0 +1,21 @@
+button{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    font-size: 22px;
+}
+
+#header{
+    text-align: center;
+}
+
+#buttons{
+    text-align: center;
+}
+
+#display{
+    text-align: center;
+}
+.selected {
+    background-color: yellow;
+}
